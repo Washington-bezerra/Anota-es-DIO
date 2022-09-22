@@ -1,1 +1,11 @@
-# Anota-es-DIO
+# Anotações DIO
+- Prepare-se para a jornada
+    - [Boas-vindas ao Québec Java Digital](https://web.dio.me/course/boas-vindas-ao-quebec-java-digital/learning/9f75eba6-8e30-423e-adb7-ab4a52bea75f?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
+    - [Conheça as Oportunidades da DIO](https://web.dio.me/course/conheca-as-oportunidades-da-dio/learning/c7b8e356-2fde-4e81-a87e-7414ca20a5a7?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
+    - [Seja Protagonista Neste Bootcamp](https://web.dio.me/course/seja-protagonista-neste-bootcamp/learning/b1ad8b5e-47ca-493b-a78f-5a1b1d888eb4?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
+    - [Introdução ao Desenvolvimento Moderno de Software](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software/learning/64118d38-e7a0-4e98-becd-c5e52c993e08?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
+    - [Québec Java Digital | Aula Inaugural](https://web.dio.me/live/quebec-java-digital-aula-inaugural/learning/4b3fd980-68a0-4e6f-8404-64ecbb37facc?back=/track/quebec-java-digital).
+- Princípios de Desenvolvimento de Software
+    - [Introdução à Programação e Pensamento Computacional](https://web.dio.me/course/introducao-a-programacao-e-pensamento-computacional/learning/285a4323-c6b0-4233-988e-4a2954065de3?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
+    - [Introdução ao Git e ao GitHub](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
+    - [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso](https://web.dio.me/project/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
