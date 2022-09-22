@@ -1,4 +1,4 @@
-# Anotações DIO
+# Anotações DIO :pencil2:
 - Prepare-se para a jornada
     - [Boas-vindas ao Québec Java Digital](https://web.dio.me/course/boas-vindas-ao-quebec-java-digital/learning/9f75eba6-8e30-423e-adb7-ab4a52bea75f?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
     - [Conheça as Oportunidades da DIO](https://web.dio.me/course/conheca-as-oportunidades-da-dio/learning/c7b8e356-2fde-4e81-a87e-7414ca20a5a7?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined).
